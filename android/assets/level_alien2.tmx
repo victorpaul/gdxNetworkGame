@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="396" height="13" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tech" tilewidth="16" tileheight="16">
+  <tile id="0">
+   <image width="16" height="16" source="tech/block.png"/>
+  </tile>
+ </tileset>
+ <imagelayer name="background">
+  <image source="alien_level.png"/>
+ </imagelayer>
+ <layer name="collision" width="396" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztmeuuxCAIhO37v/TJ/jyEKuqAWOZLzG6MpXKpY+3TWnuUVgUPn5E2rbYq5a+Kn9FocbX2Rdgj59FyVClvj/jNZtNqSz5/X8YjZ0SPq7Uvwh45T6ReaO8xvRYB9WJsN1Nryu9pX78C9YKMiNKLFZsRzyP1wmYzA556sWMrW5xWoV6QEUi98NqDRe1ZUfvLnfq3zu/tnvL+SL9Og8wZ2lfvGo1qmi/Wvgh7GVslNH9XY1Atdj968ZuNx8x4Wavyf8VcEBJNtefstF7crtMovdiJnbzeM5bV9mQ3zpnEUa0u3ta7lWd+dc1bvTYDCL14G2eN+Wg9Q653CDs35fr2+iS+VKsL5LsE9eJ/n8WnngZYx1vsUy/WuL0+iS/V6mJHL3bPGeT4G2Pfi4PXO5p1DPKMCnkuc0OetVwSIqlWFyf9/YJeIJn93uF9Voi83suWF6xNYqFaXVAvcuDtO/ViDtYmsVCtLqzftr1aprlkiYMHmeZ4OtasTTZkq8Qfn1cDWg==
+  </data>
+ </layer>
+</map>
